@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<otrs_package version="1.0">
+<ligero_package version="1.0">
     <Name>GeneralCatalog</Name>
-<!-- nofilter(TidyAll::Plugin::OTRS::SOPM::DocumentationPresent) -->
+<!-- nofilter(TidyAll::Plugin::LIGERO::SOPM::DocumentationPresent) -->
     <Version>0.0.0</Version>
     <Framework Minimum="6.0.15">6.0.x</Framework>
-    <Vendor>OTRS AG</Vendor>
-    <URL>https://otrs.com/</URL>
+    <Vendor>LIGERO AG</Vendor>
+    <URL>https://ligero.com/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
     <Description Lang="en">The General Catalog package.</Description>
     <Description Lang="de">Das General Catalog Paket.</Description>
@@ -215,4 +215,4 @@
         <br/>
 
     ]]></IntroUninstall>
-</otrs_package>
+</ligero_package>

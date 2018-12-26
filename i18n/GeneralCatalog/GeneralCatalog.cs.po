@@ -5,11 +5,11 @@
 # Pavel Dvořák <pavel@pavel-dvorak.cz>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: OTRS\n"
+"Project-Id-Version: LIGERO\n"
 "POT-Creation-Date: 2018-09-14 12:08+0000\n"
 "PO-Revision-Date: 2018-09-14 12:08+0000\n"
 "Last-Translator: Udo Bretz\n"
-"Language-Team: Czech (http://www.transifex.com/otrs/OTRS/language/cs/)\n"
+"Language-Team: Czech (http://www.transifex.com/ligero/LIGERO/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

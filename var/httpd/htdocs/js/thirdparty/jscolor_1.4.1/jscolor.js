@@ -991,6 +991,6 @@ var jscolor = {
 
 };
 
-//--- OTRSCIDeploymentStateColors
+//--- LIGEROCIDeploymentStateColors
 //jscolor.install();
 //---

@@ -3,7 +3,7 @@
 #[main]
 #host = https://www.transifex.com
 
-[OTRS.GeneralCatalog]
+[LIGERO.GeneralCatalog]
 file_filter = i18n/GeneralCatalog/GeneralCatalog.<lang>.po
 source_file = i18n/GeneralCatalog/GeneralCatalog.pot
 source_lang = en

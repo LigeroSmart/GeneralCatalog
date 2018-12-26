@@ -4,11 +4,11 @@
 # Udo Bretz, 2016
 msgid ""
 msgstr ""
-"Project-Id-Version: OTRS\n"
+"Project-Id-Version: LIGERO\n"
 "POT-Creation-Date: 2018-04-24 14:13+0000\n"
 "PO-Revision-Date: 2018-05-08 21:57+0000\n"
-"Last-Translator: Ricardo von Staa <ricardo.von.staa@otrs.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/otrs/OTRS/language/pt_BR/)\n"
+"Last-Translator: Ricardo von Staa <ricardo.von.staa@ligero.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/ligero/LIGERO/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -97,10 +97,10 @@ msgstr "Definir o grupo de permissionamento."
 
 #. SysConfig
 msgid ""
-"Defines if the communication between this system and OTRS Group servers that"
+"Defines if the communication between this system and LIGERO Group servers that"
 " provide cloud services is possible. If set to 'Disable cloud services', "
 "some functionality will be lost such as system registration, support data "
-"sending, upgrading to and use of OTRS Business Solution™, OTRS Verify™, OTRS"
+"sending, upgrading to and use of LIGERO Business Solution™, LIGERO Verify™, LIGERO"
 " News and product News dashboard widgets, among others."
 msgstr ""
 
@@ -131,7 +131,7 @@ msgid "Logged in users."
 msgstr ""
 
 #. SysConfig
-msgid "News about OTRS."
+msgid "News about LIGERO."
 msgstr ""
 
 #. SysConfig
